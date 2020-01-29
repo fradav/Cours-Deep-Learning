@@ -16,12 +16,12 @@ Tutoriel général pytorch sur le site de Pytorch.org (en anglais) :
 
 ### Descente de gradient
 
-- Cours [Notebook](./Descente%20de%20gradient.ipynb)|[Slides](./descente-de-gradient.pdf)  
+- Cours [Notebook](./Descente%20de%20gradient.ipynb) | [Slides](./descente-de-gradient.pdf)  
 
 - TP [Notebook](./TP%20descente%20de%20gradient%20pytorch%20-%202020.ipynb)
   
 ### Descente de gradient stochastique
 
-- Cours et TP  [Notebook](./SGD%20Théorie%20et%20Pratique-2020.ipynb)|[Slides](./sgd.pdf)
+- Cours et TP  [Notebook](./SGD%20Théorie%20et%20Pratique-2020.ipynb) | [Slides](./sgd.pdf)
   
 
