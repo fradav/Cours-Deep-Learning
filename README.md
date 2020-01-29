@@ -1,4 +1,4 @@
-# Cours Deep Learning sur les données séquentielles
+# Cours Deep Learning sur les données séquentielles (WIP)
 
 ## Notions de base, introduction à Pytorch
 
