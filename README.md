@@ -10,6 +10,7 @@
 
 [Différentiation automatique](./ad.html)
 
+
 ### Descente de gradient
 
 [Cours](./Descente%20de%20gradient.ipynb)
