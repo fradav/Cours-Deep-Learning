@@ -6,7 +6,12 @@
   "dependencies": {
     "highlight": "^0.2.4",
     "markpress": "^4.0.0",
-    "mathjax": "^2.7.5"
+    "mathjax": "^2.7.5",
+    "oniguruma": "atom/node-oniguruma",
+    "decktape": "^2.11.0"
+  },
+  "resolutions": {
+    "oniguruma" : "atom/node-oniguruma"
   },
   "devDependencies": {},
   "scripts": {
